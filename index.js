@@ -1,4 +1,4 @@
-let Btn = document.getElementById('Btn')
+let Btn = document.getElementById('btn')
 
 let bnb1 = false
 Btn.style.marginLeft = "auto"
